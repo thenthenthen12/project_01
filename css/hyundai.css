@@ -162,7 +162,6 @@ header .inner .logo_box .down .inner_box a h3 {
 header .inner .menu_box {
     left: 219px;
 }
-/* (마우스 올렸을때 스타일 변경 해주기) */
 header .inner .menu_box > div > a {
     font-size: 14px;
     margin-right: 10px;
@@ -354,7 +353,6 @@ header .inner .login_box a:nth-child(4) {
 }
 header .inner .login_box a:nth-child(4) img {
     vertical-align: middle;
-    /* (옆 객체 따라서 수직중앙 정렬) */
 }
 header .inner .login_box > .more {
     display: inline;
